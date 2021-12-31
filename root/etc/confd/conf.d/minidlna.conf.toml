@@ -1,0 +1,6 @@
+[template]
+src = "minidlna.conf.tmpl"
+dest = "/etc/minidlna.conf"
+keys = [
+    "/minidlna/media/dirs"
+]
