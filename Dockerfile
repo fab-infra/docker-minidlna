@@ -1,5 +1,5 @@
-# MiniDLNA server based on openSUSE Leap 15.3
-FROM ghcr.io/fab-infra/base-image:opensuse15.3
+# MiniDLNA server based on openSUSE Leap 15.4
+FROM ghcr.io/fab-infra/base-image:opensuse15.4
 
 # Environment
 ENV MINIDLNA_MEDIA_DIRS="/media"
